@@ -3,7 +3,8 @@ Linear Regression from Scratch: Math to Production
 A production-ready implementation of Linear Regression using only NumPy, demonstrating the mathematical foundations from gradient descent to scalable deployment.
 
 ##  Project Structure
-'''
+
+```
 linear-regression-scratch/
 ├── src/
 │   ├── __init__.py
@@ -33,4 +34,4 @@ linear-regression-scratch/
 ├── requirements-dev.txt
 ├── Makefile
 └── README.md
-'''
+```
